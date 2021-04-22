@@ -1,5 +1,5 @@
-# Operating-Systems-Sockets
-Operating Systems Sockets
+# Weather-System-Sockets
+Weather-System-Sockets
 
 The Server side of the program: 
 	The Program will take in the weather20.txt file, read the data and store it
